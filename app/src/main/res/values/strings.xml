@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="player1">Enter player\'s name</string>
+</resources>
